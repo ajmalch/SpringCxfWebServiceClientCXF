@@ -7,3 +7,5 @@ First run the WebService application in https://github.com/ajmalch/SpringCxfWebS
 
 After that update the address of webservice in spring-config.xml under
 SpringCxfWebServiceClientCXF/src/main/resources
+
+Then run the Client.java as a java application
